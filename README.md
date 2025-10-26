@@ -134,13 +134,13 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   
   ## 🏆 GitHub Trophies
   
   <img src="https://github-profile-trophy.vercel.app/?username=Yug0407&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 
-</div>
+</div> -->
 
 <br>
 
